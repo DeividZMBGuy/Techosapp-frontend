@@ -1,0 +1,32 @@
+.Register {
+    text-align: center;
+  }
+  
+  .containerMain {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background: #ebddcb;
+    box-shadow: 100%;
+    width: 20%;
+  }
+  
+  
+  .Register-header {
+    /*background-color: #282c34;*/
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /*font-size: calc(10px + 2vmin);*/
+    color: white;
+    background-image: url(./back1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+ 
